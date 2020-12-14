@@ -6,6 +6,7 @@ matplotlib>=3.2.2
 numpy>=1.18.5
 opencv-python>=4.1.2
 pillow
+utils
 PyYAML>=5.3
 scipy>=1.4.1
 tqdm>=4.41.0
